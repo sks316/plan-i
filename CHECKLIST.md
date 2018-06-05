@@ -5,7 +5,7 @@
 - [x] superwhiskers
 - [ ] thunder
 - [x] ru ni
-- [ ] TJ
+- [x] TJ
 
 # People who I still need to ask/haven't replied
 - Queenstar
