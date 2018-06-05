@@ -2,7 +2,7 @@
 - [ ] alonchalo
 - [ ] Maki
 - [ ] RoadKill
-- [ ] superwhiskers
+- [x] superwhiskers
 - [ ] thunder
 - [ ] ru ni
 
