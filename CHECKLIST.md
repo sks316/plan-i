@@ -1,5 +1,5 @@
 # "Bios"
-- [ ] alonchalo
+- [x] alonchalo
 - [ ] Maki
 - [ ] RoadKill
 - [x] superwhiskers
