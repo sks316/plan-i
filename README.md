@@ -14,3 +14,6 @@ Hi, I'm TJ. I like to code professionally and in my free time, I also help to ru
 
 ## ru ni
 I'm a 22 y/o tech enthusiast from the uk. I've been helping run the discord server for a somewhat prominent indie game studio since the company was just a guy watching tutorials. The server is at 36k users right now so the last few years have been quite the experience dealing with communities of various sizes as they grow.   But there's also other servers like the me_irl one that i've found myself connected with as I've known the previous 'owner' of the server from the gamedev server for a year or two before and have been operating it since the transfer of ownership a little while ago. I'm not sure what impression you've got of the server but I'd be interested to hear what it is and what could have left that impression on you.
+
+## Luana
+Hi! I'm a music major who spends free time playing video games. I'm often on discord and I enjoy being a part of small communities. I want to do what I can to help Pika.
