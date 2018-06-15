@@ -20,3 +20,6 @@ Hi! I'm a music major who spends free time playing video games. I'm often on dis
 
 ## Master9000
 Hello there, I'm a computer enthusiast that likes [spreadsheets](https://docs.google.com/spreadsheets/d/17HwmmJE-oKMyD20SwOqGjQN9XXTj0SU7nXy-oKQ5zFw/edit?usp=sharing), video games, and adding to the list of discord servers I'm rarely ever seen on. Pika's isn't among those and I am looking forward to helping him when possible.
+
+## RoadKillPheasant
+I go by the username RoadKillPheasant. I'm from the UK and I'm currently studying maths, computer science, and physics. I'm a teenager with an interest in programming and I want to do rocket science when I'm older.
