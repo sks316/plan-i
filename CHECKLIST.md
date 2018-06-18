@@ -1,6 +1,6 @@
 # "Bios"
 - [x] alonchalo
-- [ ] Maki
+~~- [ ] Maki~~
 - [x] RoadKill
 - [x] superwhiskers
 - [ ] thunder
