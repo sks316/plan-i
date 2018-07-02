@@ -23,3 +23,6 @@ Hello there, I'm a computer enthusiast that likes [spreadsheets](https://docs.go
 
 ## RoadKillPheasant
 I go by the username RoadKillPheasant. I'm from the UK and I'm currently studying maths, computer science, and physics. I'm a teenager with an interest in programming and I want to do rocket science when I'm older.
+
+## Killer Queenstar
+I'm Killer Queenstar. I'm also a teenager who is interested in programming, and I love graphic design, linguistics, watching anime (japanese TV), and playing video games. I'm learning a lot of skills at the moment, reading a lot of books, and having a lot of fun playing with my friends. We all miss Pika, and hope that he can return to the discord.
