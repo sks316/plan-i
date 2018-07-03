@@ -29,3 +29,6 @@ I'm Killer Queenstar. I'm also a teenager who is interested in programming, and 
 
 ## SCOTT0852 (aka Local Nintendo Hacker)
 I'm a student who spends a decent amount of time playing video games and hacking consoles (current list: Wii U, 3DS, PS Vita, and Switch). Personally, I think Pika really added something to the conversations we had on Discord & would love to see him back. That pika.py bot he made looks pretty neat too, it's more complex than a few other bots I've seen (and I'm in maybe 30 or 40 different Discord servers!)
+
+## bennyman123abc
+I am a 16 y/o male who has been working with computer programming for the last decade. I am a contract developer that works in multiple programming lanaguages, including but not limited to: Python, C, C++, C#, JavaScript, TypeScript, Go, Java, and many more. As a hobby, I develop homebrew for, and work on exploit implementations for Nintendo consoles such as the DS, 3DS, Wii, Wii U, and more recently the DSi. I also play piano and multiple other musical instruments fluently as a hobby. I am going into my senior year of High School and have completed multiple college and college level courses including AP Psychology and AP Algebra II. I have plans to go into server management after High School and continue to work contract programming jobs on the side. 
