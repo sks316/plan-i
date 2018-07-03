@@ -27,5 +27,5 @@ I go by the username RoadKillPheasant. I'm from the UK and I'm currently studyin
 ## Killer Queenstar
 I'm Killer Queenstar. I'm also a teenager who is interested in programming, and I love graphic design, linguistics, watching anime (japanese TV), and playing video games. I'm learning a lot of skills at the moment, reading a lot of books, and having a lot of fun playing with my friends. We all miss Pika, and hope that he can return to the discord.
 
-##SCOTT0852 (aka Local Nintendo Hacker)
+## SCOTT0852 (aka Local Nintendo Hacker)
 I'm a student who spends a decent amount of time playing video games and hacking consoles (current list: Wii U, 3DS, PS Vita, and Switch). Personally, I think Pika really added something to the conversations we had on Discord & would love to see him back. That pika.py bot he made looks pretty neat too, it's more complex than a few other bots I've seen (and I'm in maybe 30 or 40 different Discord servers!)
