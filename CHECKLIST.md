@@ -1,11 +1,2 @@
 # "Bios"
-- [x] alonchalo
-- [ ] ~~Maki~~
-- [x] RoadKill
-- [x] superwhiskers
-- [ ] thunder
-- [x] ru ni
-- [x] TJ
-- [x] Luna
-- [x] Master9000
-- [x] Queenstar
+- [x] Everyone
