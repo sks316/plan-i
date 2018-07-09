@@ -36,6 +36,9 @@ I am a 16 y/o male who has been working with computer programming for the last d
 ## Lodi429
 I am a 12 y/o pre-teen that spends alot of time playing games and talking to friends. I have been practicing programming and plan on helping out with Pretendo to revive the Wii U and 3DS series.
 
+## PVdude
+I'm a teenager who likes to hack consoles and generally mess around with computers. I currently know multiple programming lanaguages such as C++, Java, Python, Javascript, and Kotlin. I love to hack consoles, play games, and make games. I feel Pika should be added back as he has shown to be nice very helpful to all the Discord servers i've seen him on.
+
 ## Snoot
 Hi! I'm a student interested with programming. I've been enjoying building up my security and server expertise, in addition to working on reverse engineering products. In my spare time, you'll often catch me reading, listening to music or just hanging out with friends.
 
