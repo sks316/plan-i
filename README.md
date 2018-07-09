@@ -6,10 +6,10 @@ the community effort to bring pika back, take 2
 ## superwhiskers
 hello, i'm superwhiskers. i am a developer of [@PretendoNetwork](https://github.com/PretendoNetwork), and creator of numerous random things such as [whiskercade](https://github.com/superwhiskers/whiskercade) and [maryo](https://github.com/PretendoNetwork/maryo). all in all, i hope that i am of use to this cause.
 
-## alonchalo
+## alonchalo 
 Hi, I'm alonchalo. I like to code in my free time, I am an administrator in a discord server, and I like physics and overall science. I hope I can help.
 
-## TJ
+## TJ 
 Hi, I'm TJ. I like to code professionally and in my free time, I also help to run a discord server in my free time. I hope I can help.
 
 ## ru ni
@@ -31,10 +31,13 @@ I'm Killer Queenstar. I'm also a teenager who is interested in programming, and 
 I'm a student who spends a decent amount of time playing video games and hacking consoles (current list: Wii U, 3DS, PS Vita, and Switch). Personally, I think Pika really added something to the conversations we had on Discord & would love to see him back. That pika.py bot he made looks pretty neat too, it's more complex than a few other bots I've seen (and I'm in maybe 30 or 40 different Discord servers!)
 
 ## bennyman123abc
-I am a 16 y/o male who has been working with computer programming for the last decade. I am a contract developer that works in multiple programming lanaguages, including but not limited to: Python, C, C++, C#, JavaScript, TypeScript, Go, Java, and many more. As a hobby, I develop homebrew for, and work on exploit implementations for Nintendo consoles such as the DS, 3DS, Wii, Wii U, and more recently the DSi. I also play piano and multiple other musical instruments fluently as a hobby. I am going into my senior year of High School and have completed multiple college and college level courses including AP Psychology and AP Algebra II. I have plans to go into server management after High School and continue to work contract programming jobs on the side.
+I am a 16 y/o male who has been working with computer programming for the last decade. I am a contract developer that works in multiple programming lanaguages, including but not limited to: Python, C, C++, C#, JavaScript, TypeScript, Go, Java, and many more. As a hobby, I develop homebrew for, and work on exploit implementations for Nintendo consoles such as the DS, 3DS, Wii, Wii U, and more recently the DSi. I also play piano and multiple other musical instruments fluently as a hobby. I am going into my senior year of High School and have completed multiple college and college level courses including AP Psychology and AP Algebra II. I have plans to go into server management after High School and continue to work contract programming jobs on the side. 
 
 ## Lodi429
 I am a 12 y/o pre-teen that spends alot of time playing games and talking to friends. I have been practicing programming and plan on helping out with Pretendo to revive the Wii U and 3DS series.
+
+## SirNapkin1334
+Im a...uh...person. I play video games, like to talk on gbatemp, and i also administrate a Discord server. one of my favorite things to do is making video game consoles do funny things. i also like to take to take stuff aprt and make it do funny stuff from the inside. i also have an increasing interest in pyrotechnics. id be happy to help - pretendo is really cool!
 
 ## PVdude
 I'm a teenager who likes to hack consoles and generally mess around with computers. I currently know multiple programming lanaguages such as C++, Java, Python, Javascript, and Kotlin. I love to hack consoles, play games, and make games. I feel Pika should be added back as he has shown to be nice very helpful to all the Discord servers i've seen him on.
