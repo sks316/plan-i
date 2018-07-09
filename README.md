@@ -40,3 +40,6 @@ I am a 12 y/o pre-teen that spends alot of time playing games and talking to fri
 Hi! I'm a student interested with programming. I've been enjoying building up my security and server expertise, in addition to working on reverse engineering products. In my spare time, you'll often catch me reading, listening to music or just hanging out with friends.
 
 I've only known Pika for shorter than people above probably have but have had some good conversations about programming, including one of my favorite languages, Go. It's my hope you'll let them continue to be with all the cool developer people above on Discord.
+
+## wrathsoffire76
+Hello, I'm wrath. I'm 17 years old and I love doing things like small coding projects, playing videogames or talking to people like pika on Discord. I also moderate a lot of Discord servers and try to help whenever I can ^~^
