@@ -32,3 +32,6 @@ I'm a student who spends a decent amount of time playing video games and hacking
 
 ## bennyman123abc
 I am a 16 y/o male who has been working with computer programming for the last decade. I am a contract developer that works in multiple programming lanaguages, including but not limited to: Python, C, C++, C#, JavaScript, TypeScript, Go, Java, and many more. As a hobby, I develop homebrew for, and work on exploit implementations for Nintendo consoles such as the DS, 3DS, Wii, Wii U, and more recently the DSi. I also play piano and multiple other musical instruments fluently as a hobby. I am going into my senior year of High School and have completed multiple college and college level courses including AP Psychology and AP Algebra II. I have plans to go into server management after High School and continue to work contract programming jobs on the side. 
+
+## Lodi429
+I am a 12 y/o pre-teen that spends alot of time playing games and talking to friends. I have been practicing programming and plan on helping out with Pretendo to revive the Wii U and 3DS series.
