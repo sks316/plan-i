@@ -38,3 +38,14 @@ I am a 12 y/o pre-teen that spends alot of time playing games and talking to fri
 
 ## SirNapkin1334
 Im a...uh...person. I play video games, like to talk on gbatemp, and i also administrate a Discord server. one of my favorite things to do is making video game consoles do funny things. i also like to take to take stuff aprt and make it do funny stuff from the inside. i also have an increasing interest in pyrotechnics. id be happy to help - pretendo is really cool!
+
+## PVdude
+I'm a teenager who likes to hack consoles and generally mess around with computers. I currently know multiple programming lanaguages such as C++, Java, Python, Javascript, and Kotlin. I love to hack consoles, play games, and make games. I feel Pika should be added back as he has shown to be nice very helpful to all the Discord servers i've seen him on.
+
+## Snoot
+Hi! I'm a student interested with programming. I've been enjoying building up my security and server expertise, in addition to working on reverse engineering products. In my spare time, you'll often catch me reading, listening to music or just hanging out with friends.
+
+I've only known Pika for shorter than people above probably have but have had some good conversations about programming, including one of my favorite languages, Go. It's my hope you'll let them continue to be with all the cool developer people above on Discord.
+
+## wrathsoffire76
+Hello, I'm wrath. I'm 17 years old and I love doing things like small coding projects, playing videogames or talking to people like pika on Discord. I also moderate a lot of Discord servers and try to help whenever I can ^~^
