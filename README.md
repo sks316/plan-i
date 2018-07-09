@@ -35,3 +35,6 @@ I am a 16 y/o male who has been working with computer programming for the last d
 
 ## Lodi429
 I am a 12 y/o pre-teen that spends alot of time playing games and talking to friends. I have been practicing programming and plan on helping out with Pretendo to revive the Wii U and 3DS series.
+
+## wrathsoffire76
+Hello, I'm wrath. I'm 17 years old and I love doing things like small coding projects, playing videogames or talking to people like pika on Discord. I also moderate a lot of Discord servers and try to help whenever I can ^~^
