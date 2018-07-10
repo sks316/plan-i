@@ -1,5 +1,5 @@
 # plan-i
-**The project has concluded. Thanks for participating!**
+**The project has been put on hold until [Date TBD]. If you honestly need to contact me, talk to Luanya or Scott.**
 
 # People
 
