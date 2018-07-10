@@ -55,5 +55,9 @@ The internet is a very interesting place. So many different people, from so many
 While it may seem like Discord is bad, it is best compared to this plant. Sure, it will have times where it can be bad, but you can say that for just about anything. The community that we're building is meant to be a positive one; one driven by a love of friendship, games, and software engineering. Even though I may not know Pika personally, I believe that everyone should be given a chance to be apart of this community. Those who wish to ruin it, lose such a privilege. Pika has been nothing but a blessing to this community, and it would be such a shame for them to be removed.
 But why should you listen to me? I don't know. Thats the tough part. If there was any reasonable way to prove my legitimacy, I would in a heartbeat. I'm just like many of the other people who have contributed here. Just someone who really enjoys anything to do with technology (and Mario Kart :P). If you were to take anything from this little spiel, I wish that you would realize that Pika is well loved in this community, and they deserve to be here.
 
+## NightYoshi370
+
+Hi, I'm NightYoshi370, a 14 year old PHP coder who runs a forum called [Mario Making Mods](https://mariomods.net/). I mod SMM and I'm a mod st some places. I also know alot of people.
+
 ## Austin (sks316)
 Hey, I'm Austin, though most people online know me by the name of sks316. I'm a 15 y/o who likes to spend his free time playing video games and interacting with the many friends I have made through Discord, one of which is Pika. I initially discovered Pika when his bot, Pika.py, was added to a server created by a friend of mine. Since then, I feel like Pika has become a very good friend of mine, and as we all know, friends are one of the things in life that are irreplaceable. I may just be a random internet stranger, but I care about Pika, as do many others.
